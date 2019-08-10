@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{9B1A4313-C4E7-489B-BAE9-441D0E40D022}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learnaspnet/Startup.cs">
+    <Files>
+      <File FileName="learnaspnet/Controllers/HelloWorldController.cs" Line="19" Column="11" />
+      <File FileName="learnaspnet/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="learnaspnet" expanded="True">
+            <Node name="learnaspnet" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.learnaspnet FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.learnaspnet PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
