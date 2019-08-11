@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C3E2DBA0-719D-4C76-94CF-E7E99A2022D0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learnaspnet_views/Controllers/HelloWorldController.cs">
+    <Files>
+      <File FileName="learnaspnet_views/Controllers/HelloWorldController.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="learnaspnet_views" expanded="True">
+            <Node name="learnaspnet_views" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloWorldController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.learnaspnet__views FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
