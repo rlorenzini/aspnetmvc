@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9B1A4313-C4E7-489B-BAE9-441D0E40D022}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="learnaspnet/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learnaspnet/Controllers/HelloWorldController.cs">
     <Files>
-      <File FileName="learnaspnet/Controllers/HelloWorldController.cs" Line="19" Column="11" />
+      <File FileName="learnaspnet/Controllers/HelloWorldController.cs" Line="29" Column="2" />
       <File FileName="learnaspnet/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
@@ -9,8 +9,9 @@
         <State name="__root__">
           <Node name="learnaspnet" expanded="True">
             <Node name="learnaspnet" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloWorldController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
