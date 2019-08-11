@@ -31,3 +31,7 @@ namespace MvcMovie.Controllers
         }
     }
 }
+
+// you can add ID parameter to each action, but it is by default optional (check startup.cs)
+// so far we are doing V and C with just the controller, which quickly becomes difficult to maintain and code
+// separating the view from the controller is the best practice when using asp net mvc
