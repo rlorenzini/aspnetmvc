@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{C3E2DBA0-719D-4C76-94CF-E7E99A2022D0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="learnaspnet_views/Controllers/HelloWorldController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="learnaspnet_views/Views/HelloWorld/Index.cshtml">
     <Files>
       <File FileName="learnaspnet_views/Controllers/HelloWorldController.cs" Line="21" Column="2" />
+      <File FileName="learnaspnet_views/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="learnaspnet_views/Views/HelloWorld/Index.cshtml" Line="2" Column="27" />
+      <File FileName="learnaspnet_views/Views/Shared/_Layout.cshtml" Line="47" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="learnaspnet_views" expanded="True">
             <Node name="learnaspnet_views" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HelloWorldController.cs" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -17,7 +24,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.learnaspnet__views FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.learnaspnet__views PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
